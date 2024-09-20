@@ -1,7 +1,7 @@
 Python Var Abbreviations
 ========================
 
-Rule: As much as possible, abbrevs should be pronounceable rather than spelled out.
+Rule: As much as possible, abbrevs should be pronounceable, rather than spelled out.
 
 - var = variable
 - abbrev = abbreviation
@@ -13,14 +13,15 @@ Rule: As much as possible, abbrevs should be pronounceable rather than spelled o
 - arg = argument
 - conf = configuration
 - db = database
-    - Exception to the rule
+    - Exception to the rule.
 - env = environment
 - img = image
+    - Widely recognized abbrev. Some pronounce it in full, others spell it out.
 - info = information
 - len = length
 - max = maximum
 - min = minimum
-- msg = message
+- mes = message
 - param = parameter
 - prev = previous
 - proc = process
@@ -28,12 +29,13 @@ Rule: As much as possible, abbrevs should be pronounceable rather than spelled o
 - temp = temporary
 - char = character
 - klass = class
-- lst = list
-- doc = document | documentation
+- lis = list
+- tup = tuple
+- doc = document / documentation
 - id = identifier
+    - Exception to the rule.
 - ob = object
-    - Pronunced like in "job".
-    - "obj" is hard to pronounce.
+    - Pronunced like in "job". "Obj" is hard to pronounce.
 - gen = generate
 - func = function
 - ref = reference
