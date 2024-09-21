@@ -35,7 +35,6 @@ Rule: As much as possible, abbrevs should be pronounceable, rather than spelled 
 - temp = temporary
 - char = character
 - clas = class
-    - 'class' is a reserved word.
 - lis = list
 - tup = tuple
 - doc = document / documentation
