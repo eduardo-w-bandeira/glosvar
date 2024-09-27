@@ -1,7 +1,7 @@
 Python Var Abbreviations
 ========================
 
-Rule: As much as possible, abbrevs should be pronounceable, rather than spelled out.
+Rule: As much as possible, abbreviations should be pronounceable, rather than spelled out.
 
 - var = variable
 - abbrev = abbreviation
@@ -45,7 +45,7 @@ Rule: As much as possible, abbrevs should be pronounceable, rather than spelled 
 - gen = generate
 - func = function
 - ref = reference
-- orig = original
+- orig = original / origin
     - Pronounced as 'OR-ig'.
 - dest = destination
 - dir = directory
