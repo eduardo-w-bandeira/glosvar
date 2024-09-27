@@ -41,12 +41,12 @@ Rule: As much as possible, abbrevs should be pronounceable, rather than spelled 
 - id = identifier
     - Exception to the rule, but still pronounceable.
 - ob = object
-    - Pronunced like in 'job'. 'obj' is hard to pronounce.
+    - Pronunced like in 'job'. 'Obj' is hard to pronounce.
 - gen = generate
 - func = function
 - ref = reference
 - orig = original
-    - Pronounced as 'OR-ge' or 'OR-ig'.
+    - Pronounced as 'OR-ig'.
 - dest = destination
 - dir = directory
 - meta = metadata
