@@ -16,17 +16,18 @@ Rule: As much as possible, abbreviations should be pronounceable, rather than sp
 - comp_key = composite key
 - prop = property
 - conf = configuration
-- db = database
-    - Exception to the rule.
+- dat = data
+- dbase = database
+    - Pronounced as 'dabase'.
 - env = environment
 - ima = image
-    - 'img' is not pronounceable.
+    - 'img' is spelled out.
 - info = information
 - len = length
 - max = maximum
 - min = minimum
 - mes = message
-    - 'msg' is not pronounceable.
+    - 'msg' is spelled out.
 - mod = module
 - param = parameter
 - prev = previous
@@ -34,7 +35,9 @@ Rule: As much as possible, abbreviations should be pronounceable, rather than sp
 - req = request
 - temp = temporary
 - char = character
-- clas = class
+- klass = class
+    - Not exactly an abbreviation, but an alternative for a reserved word.
+    - 'cls' is spelled out.
 - lis = list
 - tup = tuple
 - doc = document / documentation
@@ -46,7 +49,7 @@ Rule: As much as possible, abbreviations should be pronounceable, rather than sp
 - func = function
 - ref = reference
 - orig = original / origin
-    - Pronounced as 'OR-ig'.
+    - Pronounced as 'OR-ig' (not 'ij').
 - dest = destination
 - dir = directory
 - meta = metadata
