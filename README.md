@@ -8,26 +8,26 @@ Rule: As much as possible, abbreviations should be pronounceable, rather than sp
 - num = number
 - inst = instance
 - attr = attribute
-    - Pronunced as 'atter'.
+    - Pronunced as "atter".
 - val = value
 - arg = argument
 - kwarg = keyword argument
-    - Pronounced as 'quarg'.
+    - Pronounced as "quarg".
 - comp_key = composite key
 - prop = property
 - conf = configuration
 - dat = data
 - dbase = database
-    - Pronounced as 'dabase'.
+    - Pronounced as "dabase".
 - env = environment
 - ima = image
-    - 'img' is spelled out.
+    - "img" is spelled out.
 - info = information
 - len = length
 - max = maximum
 - min = minimum
 - mes = message
-    - 'msg' is spelled out.
+    - "msg" is spelled out.
 - mod = module
 - param = parameter
 - prev = previous
@@ -35,21 +35,24 @@ Rule: As much as possible, abbreviations should be pronounceable, rather than sp
 - req = request
 - temp = temporary
 - char = character
+    - "ch" as in chuch, and "ar" as in car.
 - klass = class
     - Not exactly an abbreviation, but an alternative for a reserved word.
-    - 'cls' is spelled out.
+    - "cls" is spelled out.
 - lis = list
 - tup = tuple
 - doc = document / documentation
 - id = identifier
     - Exception to the rule, but still pronounceable.
 - ob = object
-    - Pronunced like in 'job'. 'Obj' is hard to pronounce.
+    - Pronunced like in "job". "Obj" is hard to pronounce.
 - gen = generate
 - func = function
 - ref = reference
 - orig = original / origin
-    - Pronounced as 'OR-ig' (not 'ij').
+    - Pronounced as "OR-ig" (not "ij").
 - dest = destination
 - dir = directory
 - meta = metadata
+- dev = development / develop
+- prod = production
