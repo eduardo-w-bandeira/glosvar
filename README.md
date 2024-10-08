@@ -5,6 +5,10 @@ Glosabbrev
 Rule: As much as possible, abbreviations should be pronounceable, rather than spelled out.
 
 - abbrev = abbreviation
+- addr = address
+    - Pronounced as "adder".
+- alt = alternative | alternate
+- app = application
 - arg = argument
 - attr = attribute
     - Pronunced as "atter".
@@ -14,46 +18,60 @@ Rule: As much as possible, abbreviations should be pronounceable, rather than sp
 - conf = configuration
 - dat = data
 - dbase = database
-    - Pronounced as "dabase".
+- defi = definition | define
+    - Not def, because it's a reserved word.
 - desc = description
 - dest = destination
 - dev = development | develop
 - dir = directory
 - doc = document | documentation
 - env = environment
+- err = error
+- esc = escape
 - func = function
 - gen = generate
 - id = identifier
     - Exception to the rule, but still pronounceable.
 - ima = image
-    - "img" is spelled out.
+    - Not img, because it's spelled out.
 - info = information
 - inst = instance
 - klass = class
     - Not exactly an abbreviation, but an alternative for a reserved word.
-    - "cls" is spelled out.
+    - Not cls, because it's spelled out.
 - kwarg = keyword argument
     - Pronounced as "quarg".
+- lang = language
 - len = length
+- lib = library
 - lis = list
+- loc = location
 - max = maximum
 - mes = message
-    - "msg" is spelled out.
+    - Not msg, because it's spelled out.
 - meta = metadata
 - min = minimum
 - mod = module
+- modi = modify
 - num = number
 - ob = object
-    - Pronunced like in "job". "Obj" is hard to pronounce.
+    - Pronunced like in "job".
+    - Not obj, because it's hard to pronounce.
 - orig = original | origin
     - Pronounced as "OR-ig" (not "ij").
 - param = parameter
 - prev = previous
+- prog = program
 - proc = process
 - prod = production
 - prop = property
+- proto = prototype
 - ref = reference
 - req = request
+- resp = response
+- sorc = source
+    - Not src, because it's spelled out.
+- stat = status
 - temp = temporary
 - tup = tuple
 - val = value
