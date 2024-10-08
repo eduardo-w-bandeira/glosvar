@@ -15,6 +15,7 @@ Rule: As much as possible, abbreviations should be pronounceable, rather than sp
 - dat = data
 - dbase = database
     - Pronounced as "dabase".
+- desc = description
 - dest = destination
 - dev = development | develop
 - dir = directory
