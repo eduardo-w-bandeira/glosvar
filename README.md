@@ -1,5 +1,6 @@
-Python Var Abbreviations
-========================
+Glosabbrev
+==========
+    Glossary of Variable Abbreviations
 
 Rule: As much as possible, abbreviations should be pronounceable, rather than spelled out.
 
