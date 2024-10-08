@@ -3,56 +3,56 @@ Python Var Abbreviations
 
 Rule: As much as possible, abbreviations should be pronounceable, rather than spelled out.
 
-- var = variable
 - abbrev = abbreviation
-- num = number
-- inst = instance
+- arg = argument
 - attr = attribute
     - Pronunced as "atter".
-- val = value
-- arg = argument
-- kwarg = keyword argument
-    - Pronounced as "quarg".
+- char = character
+    - "ch" as in chuch, and "ar" as in car.
 - comp_key = composite key
-- prop = property
 - conf = configuration
 - dat = data
 - dbase = database
     - Pronounced as "dabase".
+- dest = destination
+- dev = development | develop
+- dir = directory
+- doc = document | documentation
 - env = environment
+- func = function
+- gen = generate
+- id = identifier
+    - Exception to the rule, but still pronounceable.
 - ima = image
     - "img" is spelled out.
 - info = information
-- len = length
-- max = maximum
-- min = minimum
-- mes = message
-    - "msg" is spelled out.
-- mod = module
-- param = parameter
-- prev = previous
-- proc = process
-- req = request
-- temp = temporary
-- char = character
-    - "ch" as in chuch, and "ar" as in car.
+- inst = instance
 - klass = class
     - Not exactly an abbreviation, but an alternative for a reserved word.
     - "cls" is spelled out.
+- kwarg = keyword argument
+    - Pronounced as "quarg".
+- len = length
 - lis = list
-- tup = tuple
-- doc = document / documentation
-- id = identifier
-    - Exception to the rule, but still pronounceable.
+- max = maximum
+- mes = message
+    - "msg" is spelled out.
+- meta = metadata
+- min = minimum
+- mod = module
+- num = number
 - ob = object
     - Pronunced like in "job". "Obj" is hard to pronounce.
-- gen = generate
-- func = function
-- ref = reference
-- orig = original / origin
+- orig = original | origin
     - Pronounced as "OR-ig" (not "ij").
-- dest = destination
-- dir = directory
-- meta = metadata
-- dev = development / develop
+- param = parameter
+- prev = previous
+- proc = process
 - prod = production
+- prop = property
+- ref = reference
+- req = request
+- temp = temporary
+- tup = tuple
+- val = value
+- var = variable
