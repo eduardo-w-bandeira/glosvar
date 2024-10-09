@@ -18,6 +18,7 @@ Rule: As much as possible, abbreviations should be pronounceable, rather than sp
 - conf = configuration
 - dat = data
 - dbase = database
+    - Not db, because it's spelled out.
 - defi = definition | define
     - Not def, because it's a reserved word.
 - desc = description
@@ -44,7 +45,7 @@ Rule: As much as possible, abbreviations should be pronounceable, rather than sp
 - lang = language
 - lib = library
 - lis = list
-- loc = location
+- loc = location | locate
 - mes = message
     - Not msg, because it's spelled out.
 - meta = metadata
