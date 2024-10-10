@@ -10,6 +10,7 @@ Rule: As much as possible, abbreviations should be pronounceable, rather than sp
 - alt = alternative | alternate
 - app = application
 - arg = argument
+- asc = ascend(ing)
 - attr = attribute
     - Pronunced as "atter".
 - char = character
@@ -21,7 +22,9 @@ Rule: As much as possible, abbreviations should be pronounceable, rather than sp
     - Not db, because it's spelled out.
 - defi = definition | define
     - Not def, because it's a reserved word.
-- desc = description
+- desc = descend(ing)
+- descr = description
+    - Pronounced as "desker"
 - dest = destination
 - dev = development | develop
 - dir = directory
