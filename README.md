@@ -1,13 +1,17 @@
-Glosabbrev
-==========
+Glosvar
+=======
+ *Glossary of Variable Abbreviations in Python*
 
+## Rules
+1. Whenever possible, abbreviations should be pronounceable as standalone words, rather than requiring the spelling of each letter.
+2. Abbreviations should only be used for words with 5 or more letters.
 
-Rule: As much as possible, abbreviations should be pronounceable, rather than spelled out.
-
-- abbrev = abbreviation
+## Glossary
 - addr = address
     - Pronounced as "adder".
 - alt = alternative | alternate
+- api = application programming interface
+    - Exception to the rule because the initialism has become a word.
 - app = application
 - arg = argument
 - asc = ascend(ing)
@@ -17,9 +21,9 @@ Rule: As much as possible, abbreviations should be pronounceable, rather than sp
     - "ch" as in chuch, and "ar" as in car.
 - comp_key = composite key
 - conf = configuration
-- dat = data
+- curr = current
 - dbase = database
-    - Not db, because it's spelled out.
+    - Not db, because it's a spelling.
 - defi = definition | define
     - Not def, because it's a reserved word.
 - desc = descend(ing)
@@ -27,7 +31,6 @@ Rule: As much as possible, abbreviations should be pronounceable, rather than sp
     - Pronounced as "desker"
 - dest = destination
 - dev = development | develop
-- dir = directory
 - doc = document | documentation
 - env = environment
 - err = error
@@ -36,13 +39,13 @@ Rule: As much as possible, abbreviations should be pronounceable, rather than sp
 - gen = generate
 - id = identifier
     - Exception to the rule, but still pronounceable.
+    - Although 'id' is a built-in function, it's widely used as a variable.
 - ima = image
-    - Not img, because it's spelled out.
+    - Not img, because it's a spelling.
 - info = information
 - inst = instance
-- klass = class
-    - Not exactly an abbreviation, but an alternative for a reserved word.
-    - Not cls, because it's spelled out.
+- clas = class
+    - Not cls, because it's a spelling.
 - kwarg = keyword argument
     - Pronounced as "quarg".
 - lang = language
@@ -50,14 +53,14 @@ Rule: As much as possible, abbreviations should be pronounceable, rather than sp
 - lis = list
 - loc = location | locate
 - mes = message
-    - Not msg, because it's spelled out.
+    - Not msg, because it's a spelling.
 - meta = metadata
 - mod = module
 - modi = modify
 - num = number
 - ob = object
     - Pronunced like in "job".
-    - Not obj, because it's hard to pronounce.
+    - Not obj, because it's a spelling.
 - orig = original | origin
     - Pronounced as "OR-ig" (not "ij").
 - param = parameter
@@ -66,14 +69,19 @@ Rule: As much as possible, abbreviations should be pronounceable, rather than sp
 - proc = process
 - prod = production
 - prop = property
+- prot = protocol
 - proto = prototype
 - ref = reference
 - req = request
 - resp = response
-- sorc = source
-    - Not src, because it's spelled out.
+- sor = source
+    - Not 'src', because it's a spelling.
+    - Not sour, because it has its own meaning.
+- spec = specification
 - stat = status
+- sync = synchronize | synchronization
 - temp = temporary
 - tup = tuple
 - val = value
 - var = variable
+- venv = virtual environment
