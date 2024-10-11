@@ -7,6 +7,7 @@ Glosvar
 2. Abbreviations should only be used for words with 5 or more letters.
 
 ## Glossary
+- abbrev = abbreviation
 - addr = address
     - Pronounced as "adder".
 - alt = alternative | alternate
@@ -21,6 +22,7 @@ Glosvar
     - "ch" as in chuch, and "ar" as in car.
 - comp_key = composite key
 - conf = configuration
+- const = constant
 - curr = current
 - dbase = database
     - Not db, because it's a spelling.
@@ -42,10 +44,12 @@ Glosvar
     - Although 'id' is a built-in function, it's widely used as a variable.
 - ima = image
     - Not img, because it's a spelling.
+- imp = implementation | implement
 - info = information
 - inst = instance
 - clas = class
     - Not cls, because it's a spelling.
+- cont = content
 - kwarg = keyword argument
     - Pronounced as "quarg".
 - lang = language
@@ -61,6 +65,7 @@ Glosvar
 - ob = object
     - Pronunced like in "job".
     - Not obj, because it's a spelling.
+- op = operation | operate
 - orig = original | origin
     - Pronounced as "OR-ig" (not "ij").
 - param = parameter
@@ -85,3 +90,42 @@ Glosvar
 - val = value
 - var = variable
 - venv = virtual environment
+
+
+## Alternatives for Reserved Words
+- false = False
+- none = None
+- true = True
+- ? = and
+- ? = as
+- ? = assert
+- ? = async
+- ? = await
+- ? = break
+- clas = class
+- ? = continue
+    - Not cont, because cont = content.
+- defi = def
+- ? = del
+- ? = elif
+- ? = else
+- ? = except
+- ? = finally
+- ? = for
+- ? = from
+- glob = global
+- ? = if
+- ? = import
+- ? = in
+- ? = is
+- ? = lambda
+- ? = nonlocal
+- ? = not
+- ? = or
+- ? = pass
+- ? = raise
+- ret = return
+- ? = try
+- ? = while
+- ? = with
+- ? = yield
