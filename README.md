@@ -87,7 +87,7 @@ Abbreviations should:
 - req = request
 - resp = response
 - sor = source
-    - Not 'src', because it's a spelling.
+    - Not src, because it's a spelling.
     - Not sour, because it has its own meaning.
 - spec = specification
 - stat = status
