@@ -3,8 +3,12 @@ Glosvar
  *Glossary of Variable Abbreviations in Python*
 
 ## Rules
-1. Whenever possible, abbreviations should be pronounceable as standalone words, rather than requiring the spelling of each letter.
-2. Abbreviations should only be used for words with 5 or more letters.
+Abbreviations should:
+1. Whenever possible, be pronounceable as standalone words, rather than requiring the spelling of each letter.
+2. Be used only for words with 5 or more letters.
+3. Refer only to a single word, or at most, to words with the same root.
+4. Whenever possible, not form an existing known word.
+5. Not form a reserved word or, in most cases, a built-in function.
 
 ## Glossary
 - abbrev = abbreviation
@@ -50,6 +54,7 @@ Glosvar
 - clas = class
     - Not cls, because it's a spelling.
 - cont = content
+- const = constant
 - decor = decorator
 - kwarg = keyword argument
     - Pronounced as "quarg".
@@ -59,6 +64,7 @@ Glosvar
 - loc = location | locate
 - mes = message
     - Not msg, because it's a spelling.
+    - Not mess, because it has its own meaning.
 - meta = metadata
 - mod = module
 - modi = modify
