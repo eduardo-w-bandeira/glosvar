@@ -32,7 +32,7 @@
 - ? = with
 - ? = yield
 
-## Alternatives for Built-in Variables
+## Alternatives for Built-in Functions
 - ? = abs
 - ? = all
 - ? = any
@@ -64,15 +64,12 @@
 - ? = hash
 - ? = help
 - ? = hex
-- id = id
-    - id is widely used, even though it's a built-in variable.
 - ? = input
 - ? = int
 - ? = isinstance
 - ? = issubclass
 - ? = iter
 - ? = len
-- lis = list
 - ? = locals
 - ? = map
 - ? = max
@@ -98,7 +95,6 @@
 - ? = str
 - ? = sum
 - ? = super
-- tup = tuple
 - ? = type
 - ? = vars
 - ? = zip

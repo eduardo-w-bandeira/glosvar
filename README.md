@@ -107,3 +107,9 @@ Abbreviations should:
 - defi = def
 - glob = global
 - ret = return
+
+## Alternatives for Built-in Functions
+- id
+    - Not alternatives, because it is widely used, even though it's a built-in variable.
+- lis = list
+- tup = tuple
