@@ -1,5 +1,6 @@
 ## Glossary
 - di = dictionary | dict
+- pakg = package
 
 ## Alternatives for Reserved Words
 - ? = and

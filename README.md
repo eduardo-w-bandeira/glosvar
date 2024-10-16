@@ -51,6 +51,7 @@ Abbreviations should:
 - imp = implementation | implement
 - info = information
 - inst = instance
+- intro = introduction
 - clas = class
     - Not cls, because it's a spelling.
 - cont = content
@@ -76,6 +77,7 @@ Abbreviations should:
 - orig = original | origin
     - Pronounced as "OR-ig" (not "ij").
 - param = parameter
+- patt = pattern
 - prev = previous
 - prog = program
 - proc = process
@@ -110,6 +112,6 @@ Abbreviations should:
 
 ## Alternatives for Built-in Functions
 - id
-    - Not alternatives, because it is widely used, even though it's a built-in variable.
+    - No abbreviation. id should be used as "id" because it's already short and it's widely used, even though it's a built-in variable.
 - lis = list
 - tup = tuple
