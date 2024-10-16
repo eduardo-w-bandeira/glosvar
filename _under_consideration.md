@@ -1,6 +1,12 @@
 ## Glossary
-- di = dictionary | dict
 - pakg = package
+- sorc = source
+    - Not src, because it's a spelling.
+    - Not sour, because it has its own meaning.
+    - Should we really need to abbreviate this?
+- val = validate | validation
+- value = value
+    - No change.
 
 ## Alternatives for Reserved Words
 - ? = and

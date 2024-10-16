@@ -61,7 +61,6 @@ Abbreviations should:
     - Pronounced as "quarg".
 - lang = language
 - lib = library
-- lis = list
 - loc = location | locate
 - mes = message
     - Not msg, because it's a spelling.
@@ -73,7 +72,7 @@ Abbreviations should:
 - ob = object
     - Pronunced like in "job".
     - Not obj, because it's a spelling.
-- op = operation | operate
+- oper = operation | operate
 - orig = original | origin
     - Pronounced as "OR-ig" (not "ij").
 - param = parameter
@@ -88,15 +87,11 @@ Abbreviations should:
 - ref = reference
 - req = request
 - resp = response
-- sor = source
-    - Not src, because it's a spelling.
-    - Not sour, because it has its own meaning.
+- sec = second
 - spec = specification
 - stat = status
 - sync = synchronize | synchronization
 - temp = temporary
-- tup = tuple
-- val = value
 - var = variable
 - venv = virtual environment
 
