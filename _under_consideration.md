@@ -1,10 +1,14 @@
 ## Glossary
+- compos = composite | composition | compose
+    - Not comp, because comp = component.
 - pakg = package
 - sorc = source
     - Not src, because it's a spelling.
     - Not sour, because it has its own meaning.
-    - Should we really need to abbreviate this?
+    - Should we really abbreviate this?
 - val = validate | validation
+- valid = valid
+    - No change.
 - value = value
     - No change.
 
@@ -58,11 +62,11 @@
 - di = dict
 - ? = dir
 - ? = divmod
-- ? = enumerate
+- enum = enumerate
 - ? = eval
 - ? = exec
 - ? = filter
-- ? = float
+- flo = float
 - ? = format
 - ? = frozenset
 - ? = getattr

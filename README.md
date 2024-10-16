@@ -24,7 +24,7 @@ Abbreviations should:
     - Pronunced as "atter".
 - char = character
     - "ch" as in chuch, and "ar" as in car.
-- comp_key = composite key
+- comp = component
 - conf = configuration
 - const = constant
 - curr = current
