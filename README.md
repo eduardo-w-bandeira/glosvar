@@ -1,17 +1,18 @@
 Glosvar
 =======
- *Glossary of Variable Abbreviations in Python*
+ *Glossary of Variable Abbreviations in Python and Alternatives for Protected Names*
 
 ## Rules
 Abbreviations should:
 1. Whenever possible, be pronounceable as standalone words, rather than requiring the spelling of each letter.
-2. Be used only for words with 5 or more letters.
+2. Be used only for words with 6 or more letters.
 3. Refer only to a single word, or at most, to words with the same root.
 4. Whenever possible, not form an existing known word.
 5. Not form a reserved word or, in most cases, a built-in function.
 
-## Glossary
+# Glossary
 - abbrev = abbreviation
+- absol = absolute
 - addr = address
     - Pronounced as "adder".
 - alt = alternative | alternate
@@ -24,8 +25,6 @@ Abbreviations should:
     - Pronunced as "atter".
 - char = character
     - "ch" as in chuch, and "ar" as in car.
-- clas = class
-    - Not cls, because it's a spelling.
 - comp = component
 - conf = configuration
 - const = constant
@@ -61,9 +60,7 @@ Abbreviations should:
 - lang = language
 - lib = library
 - loc = location | locate
-- mes = message
-    - Not msg, because it's a spelling.
-    - Not mess, because it has its own meaning.
+- memo = memory
 - meta = metadata
 - mod = module
 - modi = modify
@@ -91,23 +88,24 @@ Abbreviations should:
 - stat = status
 - sync = synchronize | synchronization
 - temp = temporary
-- tup = tuple
 - var = variable
 - venv = virtual environment
 
 
-## Alternatives for Reserved Words
-- false = False
-- none = None
-- true = True
-- clas = class
-- defi = def
-- glob = global
-- ret = return
+# Alternatives for Reserved Words
+- false <=> False
+- none <=> None
+- true <=> True
+- klass <=> class
+    - Not cls, because it's a spelling.
+- defi <=> def
+- glob <=> global
+- ret <=> return
 
-## Alternatives for Built-in Functions
+# Alternatives for Built-in Functions
 - id
     - No abbreviation. id should be used as "id" because it's already short and it's widely used, even though it's a built-in variable.
-- lis = list
-- tup = tuple
-- pro = property
+- lis <=> list
+- ob <=> object
+- tup <=> tuple
+- prop <=> property
