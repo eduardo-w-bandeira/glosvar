@@ -24,12 +24,16 @@ Abbreviations should:
     - Pronunced as "atter".
 - char = character
     - "ch" as in chuch, and "ar" as in car.
+- clas = class
+    - Not cls, because it's a spelling.
 - comp = component
 - conf = configuration
 - const = constant
+- cont = content
 - curr = current
 - dbase = database
     - Not db, because it's a spelling.
+- decor = decorator
 - defi = definition | define
     - Not def, because it's a reserved word.
 - desc = descend(ing)
@@ -44,19 +48,14 @@ Abbreviations should:
 - func = function
 - gen = generate
 - id = identifier
-    - Exception to the rule, but still pronounceable.
-    - Although 'id' is a built-in function, it's widely used as a variable.
+    - Exception to the no-spelling rule, but still pronounceable.
+    - Exception to the no-built-in function, because it's widely used as a class-variable.
 - ima = image
     - Not img, because it's a spelling.
 - imp = implementation | implement
 - info = information
 - inst = instance
 - intro = introduction
-- clas = class
-    - Not cls, because it's a spelling.
-- cont = content
-- const = constant
-- decor = decorator
 - kwarg = keyword argument
     - Pronounced as "quarg".
 - lang = language
@@ -92,6 +91,7 @@ Abbreviations should:
 - stat = status
 - sync = synchronize | synchronization
 - temp = temporary
+- tup = tuple
 - var = variable
 - venv = virtual environment
 
@@ -110,3 +110,4 @@ Abbreviations should:
     - No abbreviation. id should be used as "id" because it's already short and it's widely used, even though it's a built-in variable.
 - lis = list
 - tup = tuple
+- pro = property

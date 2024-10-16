@@ -33,6 +33,7 @@
 - ? = in
 - ? = is
 - ? = lambda
+    - Not lamb, because it has its own meaning.
 - ? = nonlocal
 - ? = not
 - ? = or
@@ -82,7 +83,8 @@
 - ? = iter
 - ? = len
 - ? = locals
-- ? = map
+- map = map
+    - No change, because this function is not usually used, since list comprehensions are more readable.
 - ? = max
 - ? = memoryview
 - ? = min
@@ -93,7 +95,6 @@
 - ? = ord
 - ? = pow
 - ? = print
-- ? = property
 - ? = range
 - ? = repr
 - ? = reversed
