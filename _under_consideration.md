@@ -6,6 +6,7 @@
     - Not msg, because it's a spelling.
     - Not mess, because it has its own meaning.
 - pakg = package
+- reg = register | registration | registry
 - sorc = source
     - Not src, because it's a spelling.
     - Not sour, because it has its own meaning.

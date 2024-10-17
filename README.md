@@ -46,6 +46,7 @@ Abbreviations should:
 - esc = escape
 - func = function
 - gen = generate
+- gov = government
 - id = identifier
     - Exception to the no-spelling rule, but still pronounceable.
     - Exception to the no-built-in function, because it's widely used as a class-variable.
