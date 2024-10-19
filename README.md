@@ -62,6 +62,7 @@ Abbreviations should:
 - loc = location | locate
 - memo = memory
 - meta = metadata
+- meth = method
 - mod = module
 - modi = modify
 - num = number
@@ -81,6 +82,10 @@ Abbreviations should:
 - prot = protocol
 - proto = prototype
 - ref = reference
+- reg = register | registration | registry
+    - Pronounced with a hard 'g' as in 'go'.
+- repres = representation | represent
+    - Not repr, since it's a built-in function.
 - req = request
 - resp = response
 - sec = second
@@ -93,18 +98,19 @@ Abbreviations should:
 
 
 # Alternatives for Reserved Words
-- false <=> False
-- none <=> None
-- true <=> True
-- klass <=> class
+- asynk || async
+- false || False
+- none || None
+- true || True
+- klass || class
     - Not cls, since it's a spelling.
-- defi <=> def
-- glob <=> global
-- ret <=> return
+- defi || def
+- glob || global
+- ret || return
 
 
 # Alternatives for Built-in Functions
-- lis <=> list
-- ob <=> object
-- tup <=> tuple
-- prop <=> property
+- lis || list
+- ob || object
+- tup || tuple
+- prop || property
