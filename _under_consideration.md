@@ -7,7 +7,7 @@
 - pakg = package
     - Not pkg, since it's a spelling.
 - val = validate | validation
-    - Isseu: it may be confused with value or valid.
+    - Issue: it may be confused with value or valid.
 
 # Rules for alternatives for protected names
 One of the following, in order of display, should be used for creating alternatives:
