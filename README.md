@@ -9,7 +9,7 @@ Abbreviations should:
 2. Be used only for words with 6 or more letters.
 3. Refer only to a single word, or at most, to words with the same root.
 4. Whenever possible, not form an existing known word.
-5. Not form a Python reserved word or, in most cases, a built-in function.
+5. Not form a Python reserved word or a built-in function.
 
 
 # Abbreviations
