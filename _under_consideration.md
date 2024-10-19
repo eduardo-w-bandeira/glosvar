@@ -1,16 +1,15 @@
-# Glossary
+# Abbreviations Under Consideration
 - compos = composite | composition | compose
-    - Not comp, because comp = component.
+    - Not comp, since comp = component.
 - meth = method
 - mesg = message
-    - Not msg, because it's a spelling.
-    - Not mess, because it has its own meaning.
+    - Not msg, since it's a spelling.
+    - Not mess, since it has its own meaning.
 - pakg = package
 - reg = register | registration | registry
-- sorc = source
-    - Not src, because it's a spelling.
-    - Not sour, because it has its own meaning.
-    - Should we really abbreviate this?
+    - Pronounced with a hard 'g' as in 'go'.
+- repres = representation | represent
+    - Not repr, since it's a built-in function.
 - val = validate | validation
     - The setback is that it may be confused with value or valid.
 
@@ -18,15 +17,16 @@
 Use one of the following in order of display:
 1. If it starts with a capital letter, change it to lowercase.
 2. Use abbreviations already estabilished in the Glossary.
-3. Separate joined words with an underscore and use abbreviations already estabilished in the Glossary.
-4. Replace c with k.
-5. Replace i witk y.
-6. Replace y with i.
-7. Replace k with c, if it's the final letter.
-8. Replace x with ks.
+3. Abbreviate if the word is easily recognizable by its abbreviation.
+4. Separate joined words with an underscore and use abbreviations already estabilished in the Glossary.
+5. Replace c with k if its sound doesn't change.
+6. Replace i witk y.
+7. Replace y with i.
+8. Replace k with c if its sound doesn't change.
+9. Replace x with ks.
 
 
-# Alternatives for Reserved Words
+# Alternatives for Reserved Words Under Consideration
 - ? <=> and
 - ? <=> as
 - ? <=> assert
@@ -34,7 +34,7 @@ Use one of the following in order of display:
 - awayt <=> await
 - breac <=> break
 - kontinue <=> continue
-    - Not cont, because cont <=> content.
+    - Not cont, since cont <=> content.
 - ? <=> del
 - elyf <=> elif
 - ? <=> else
@@ -42,12 +42,13 @@ Use one of the following in order of display:
 - finalli <=> finally
 - ? <=> for
 - ? <=> from
+- yd <=> id
 - yf <=> if
 - ymport <=> import
 - yn <=> in
 - ys <=> is
 - ? <=> lambda
-    - Not lamb, because it has its own meaning.
+    - Not lamb, since it has its own meaning.
 - non_local <=> nonlocal
 - ? <=> not
 - ? <=> or
@@ -58,9 +59,9 @@ Use one of the following in order of display:
 - wyth <=> with
 - yyeld <=> yield
 
-# Alternatives for Built-in Functions
+# Alternatives for Built-in Functions Under Consideration
 - absol <=> abs
-- al <=> all
+- ? <=> all
 - ani <=> any
 - askii <=> ascii
 - byn <=> bin
@@ -73,7 +74,7 @@ Use one of the following in order of display:
 - char <=> chr
 - class_meth <=> classmethod
 - kompile <=> compile
-    - Not comp, because comp <=> component.
+    - Not comp, since comp <=> component.
 - komplex <=> complex
 - del_attr <=> delattr
 - dikt <=> dict
@@ -85,8 +86,8 @@ Use one of the following in order of display:
 - fylter <=> filter
 - flo <=> float
 - ? <=> format
-    - Not form, because it has its own meaning.
-    - Not fmt, because it's a spelling.
+    - Not form, since it has its own meaning.
+    - Not fmt, since it's a spelling.
 - frozen_set <=> frozenset
 - get_attr <=> getattr
 - globs <=> globals
@@ -102,7 +103,7 @@ Use one of the following in order of display:
 - length <=> len
 - lokals <=> locals
 - map <=> map
-    - No change, because this function is not usually used, since list comprehensions are more readable.
+    - No change, since this function is not usually used, since list comprehensions are more readable.
 - maks <=> max
 - memo_view <=> memoryview
 - myn <=> min
