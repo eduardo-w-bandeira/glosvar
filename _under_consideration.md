@@ -1,6 +1,7 @@
 # Abbreviations Under Consideration
 - compos = composite | composition | compose
     - Not comp, since comp = component.
+- ev = event
 - mesg = message
     - Not msg, since it's a spelling.
     - Not mess, since it has its own meaning.
@@ -65,20 +66,13 @@ One of the following, in order of display, should be used for creating alternati
 - byte_array || bytearray
 - bites || bytes
     - Issue: 'bites' has its own meaning.
-- kallable || callable
-- char || chr
 - class_meth || classmethod
-- kompile || compile
-    - Not comp, since comp = component.
-    - Not komp, since it would not be recognizable.
-- komplex || complex
 - del_attr || delattr
 - dikt || dict
 - dyr || dir
 - div_mod || divmod
 - enum || enumerate
 - ? || eval
-- exek || exec
 - fylter || filter
 - flo || float
 - ? || format
@@ -110,7 +104,6 @@ One of the following, in order of display, should be used for creating alternati
 - ? || pow
 - prynt || print
 - ? || range
-- repres || repr
 - reversd || reversed
 - ? || round
 - ? || set

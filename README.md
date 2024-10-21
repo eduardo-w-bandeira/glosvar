@@ -6,7 +6,7 @@ Glosvar
 ## Rules
 Abbreviations should:
 1. Whenever possible, be pronounceable as standalone words, rather than requiring the spelling of each letter.
-2. Be used only for words with 6 or more letters.
+2. Be used only for words with 5 or more letters.
 3. Refer only to a single word, or at most, to words with the same root.
 4. Whenever possible, not form an existing known word.
 5. Not form a Python reserved word or a built-in function.
@@ -110,7 +110,16 @@ Abbreviations should:
 
 
 # Alternatives for Built-in Functions
+- absol || abs
+- char || chr
+- exek || exec
 - lis || list
+- kallable || callable
+- kompile || compile
+    - Not comp, since comp = component.
+    - Not komp, since it would not be recognizable.
+- komplex || complex
 - ob || object
 - tup || tuple
 - prop || property
+- repres || repr
