@@ -7,6 +7,7 @@
     - Not mess, since it has its own meaning.
 - pakg = package
     - Not pkg, since it's a spelling.
+- ser = serializer
 - val = validate | validation
     - Issue: it may be confused with value or valid.
 
