@@ -11,7 +11,7 @@
 - val = validate | validation
     - Issue: it may be confused with value or valid.
 
-# Rules for alternatives for protected names
+# Rules Under Consideration for Alternatives for Protected Names
 One of the following, in order of display, should be used for creating alternatives:
 1. If the protected name starts with a capital letter, change it to lowercase.
 2. Use abbreviations already estabilished in the Glossary.
@@ -24,7 +24,7 @@ One of the following, in order of display, should be used for creating alternati
 9. Replace x with ks.
 
 
-# Alternatives for Reserved Words Under Consideration
+# Alternatives Under Consideration for Reserved Words
 - ? || and
 - ? || as
 - ? || assert
@@ -56,7 +56,7 @@ One of the following, in order of display, should be used for creating alternati
 - wyth || with
 - yyeld || yield
 
-# Alternatives for Built-in Functions Under Consideration
+# Alternatives Under Consideration for Built-in Functions
 - absol || abs
 - ? || all
 - ani || any
