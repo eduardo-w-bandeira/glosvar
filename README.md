@@ -19,7 +19,7 @@ Abbreviations should:
     - Pronounced as "adder".
 - alt = alternative | alternate
 - api = application programming interface
-    - Exception to the rule since the initialism has become a word.
+    - Exception to the no-spelling rule since the initialism has become a word.
 - app = application
 - arg = argument
 - asc = ascend(ing)
