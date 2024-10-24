@@ -65,6 +65,7 @@ Abbreviations should:
 - meth = method
 - mod = module
 - modi = modify
+- nav = navigation | navigate
 - num = number
 - ob = object
     - Pronunced like in "job".
