@@ -15,7 +15,7 @@
 One of the following, in order of display, should be used for creating alternatives:
 1. If the protected name starts with a capital letter, change it to lowercase.
 2. Use abbreviations already estabilished in the Glossary.
-3. Abbreviate if the word is recognizable through its abbreviation.
+3. Abbreviate if the word is easily recognizable through its abbreviation.
 4. Separate joined words with an underscore, and use abbreviations already estabilished in the Glossary.
 5. Replace c with k if its sound doesn't change.
 6. Replace k with c if its sound doesn't change.
