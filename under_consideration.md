@@ -45,8 +45,8 @@ One of the following, in order of display, should be used for creating alternati
 - ymport -- import
 - yn -- in
 - ys -- is
-- lam -- lambda
-    - Not lamb, since it has its own meaning.
+- lamb -- lambda
+    - Issue: 'lamb' has its own meaning.
 - nonlokal -- nonlocal
 - ? -- not
 - ? -- or
