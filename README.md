@@ -46,6 +46,7 @@ Abbreviations should:
 - env = environment
 - err = error
 - esc = escape
+- fam = family
 - func = function
 - gen = generate
 - gov = government
