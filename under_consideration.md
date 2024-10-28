@@ -46,7 +46,7 @@ One of the following, in order of display, should be used for creating alternati
 - ys -- is
 - ? -- lambda
     - Not lamb, since it has its own meaning.
-- non_local -- nonlocal
+- nonlokal -- nonlocal
 - ? -- not
 - ? -- or
 - ? -- pass
@@ -62,7 +62,7 @@ One of the following, in order of display, should be used for creating alternati
 - ani -- any
 - askii -- ascii
 - byn -- bin
-- ? -- bool
+- boolean -- bool
 - breacpoint -- breakpoint
 - byte_array -- bytearray
 - bites -- bytes
