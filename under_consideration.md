@@ -44,7 +44,7 @@ One of the following, in order of display, should be used for creating alternati
 - ymport -- import
 - yn -- in
 - ys -- is
-- ? -- lambda
+- lam -- lambda
     - Not lamb, since it has its own meaning.
 - nonlokal -- nonlocal
 - ? -- not
@@ -76,7 +76,7 @@ One of the following, in order of display, should be used for creating alternati
 - ? -- eval
 - fylter -- filter
 - flo -- float
-- ? -- format
+- formt -- format
     - Not form, since it has its own meaning.
     - Not fmt, since it's a spelling.
 - frozen_set -- frozenset
@@ -102,7 +102,7 @@ One of the following, in order of display, should be used for creating alternati
 - octal -- oct
 - ? -- open
 - ordinal -- ord
-- ? -- pow
+- power -- pow
 - prynt -- print
 - ? -- range
 - reversd -- reversed
