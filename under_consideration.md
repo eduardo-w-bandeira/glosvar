@@ -78,8 +78,9 @@ One of the following, in order of display, should be used for creating alternati
 - fylter -- filter
 - flo -- float
 - formt -- format
-    - Not form, since it has its own meaning.
+    - Not form, since it has its own meaning and it's widely used in development.
     - Not fmt, since it's a spelling.
+    - Not for, since its a reserved word and has its own meaning.
 - frozen_set -- frozenset
 - get_attr -- getattr
 - globs -- globals
@@ -94,8 +95,7 @@ One of the following, in order of display, should be used for creating alternati
 - yter -- iter
 - length -- len
 - lokals -- locals
-- map -- map
-    - No change, as this function is not usually used; list comprehensions are more readable.
+- ? -- map
 - maks -- max
 - memo_view -- memoryview
 - myn -- min
