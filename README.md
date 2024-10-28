@@ -99,28 +99,28 @@ Abbreviations should:
 
 
 # Alternatives for Reserved Words
-- asynk || async
-- false || False
-- none || None
-- true || True
-- klass || class
+- asynk -- async
+- false -- False
+- none -- None
+- true -- True
+- klass -- class
     - Not cls, since it's a spelling.
-- defi || def
-- glob || global
-- ret || return
+- defi -- def
+- glob -- global
+- ret -- return
 
 
 # Alternatives for Built-in Functions
-- absol || abs
-- char || chr
-- exek || exec
-- lis || list
-- kallable || callable
-- kompile || compile
+- absol -- abs
+- char -- chr
+- exek -- exec
+- lis -- list
+- kallable -- callable
+- kompile -- compile
     - Not comp, since comp = component.
     - Not komp, since it would not be recognizable.
-- komplex || complex
-- ob || object
-- tup || tuple
-- prop || property
-- repres || repr
+- komplex -- complex
+- ob -- object
+- tup -- tuple
+- prop -- property
+- repres -- repr
