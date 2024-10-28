@@ -22,6 +22,7 @@ One of the following, in order of display, should be used for creating alternati
 7. Replace i witk y.
 8. Replace y with i.
 9. Replace x with ks.
+10. Use the full word if the protected name is an abbreviation.
 
 
 # Alternatives Under Consideration for Reserved Words
