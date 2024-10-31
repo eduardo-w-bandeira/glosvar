@@ -1,4 +1,5 @@
 # Abbreviations Under Consideration
+- auth = authenticate | authentication
 - compos = composite | composition | compose
     - Not comp, since comp = component.
 - ev = event
@@ -23,7 +24,8 @@ One of the following, in order of display, should be used for creating alternati
 7. Replace i witk y.
 8. Replace y with i.
 9. Replace x with ks.
-10. Use the full word if the protected name is an abbreviation.
+10. Replace the past tense ending "ed" with "d".
+11. Use the full word if the protected name is an abbreviation.
 
 
 # Alternatives Under Consideration for Reserved Words
@@ -59,7 +61,6 @@ One of the following, in order of display, should be used for creating alternati
 - yyeld -- yield
 
 # Alternatives Under Consideration for Built-in Functions
-- absol -- abs
 - ? -- all
 - ani -- any
 - askii -- ascii
