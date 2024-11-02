@@ -26,7 +26,7 @@ Abbreviations should:
 - attr = attribute
     - Pronunced as "atter".
 - char = character
-    - "ch" as in chuch.
+    - "ch" as in church.
 - comp = component
 - conf = configuration
 - const = constant
