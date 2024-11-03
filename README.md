@@ -89,6 +89,7 @@ Abbreviations should:
 - repres = representation | represent
     - Not repr, since it's a built-in function.
 - req = request
+- repo = repository
 - resp = response
 - sec = second
 - spec = specification
