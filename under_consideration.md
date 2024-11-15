@@ -3,6 +3,8 @@
 - compos = composite | composition | compose
     - Not comp, since comp = component.
 - ev = event
+- gentor = generator
+- loctor = locator
 - mesg = message
     - Not msg, since it's a spelling.
     - Not mess, since it has its own meaning.
