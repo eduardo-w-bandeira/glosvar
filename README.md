@@ -34,7 +34,6 @@ Abbreviations should:
 - curr = current
 - dbase = database
     - Not db, since it's a spelling.
-- decor = decorator
 - defi = definition | define
     - Not def, since it's a reserved word.
 - desc = descend(ing)

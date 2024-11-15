@@ -4,7 +4,6 @@
     - Not comp, since comp = component.
 - ev = event
 - gentor = generator
-- loctor = locator
 - mesg = message
     - Not msg, since it's a spelling.
     - Not mess, since it has its own meaning.
@@ -14,6 +13,7 @@
 - slizer = serializer
 - val = validate | validation
     - Issue: it may be confused with value or valid.
+
 
 # Rules Under Consideration for Alternatives for Protected Names
 One of the following, in order of display, should be used for creating alternatives:
@@ -123,3 +123,11 @@ One of the following, in order of display, should be used for creating alternati
 - tipe -- type
 - ? -- vars
 - zyp -- zip
+
+
+# Words Not to Abbreviate
+- decorator
+    - 'decortor' would save just one letter.
+- locator
+    - 'loctor' would save just one letter.
+- value
