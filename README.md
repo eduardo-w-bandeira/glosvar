@@ -48,7 +48,6 @@ Abbreviations should:
 - fam = family
 - func = function
 - gen = generate
-- gov = government
 - ima = image
     - Not img, since it's a spelling.
 - imp = implementation | implement
@@ -62,7 +61,6 @@ Abbreviations should:
 - loc = location | locate
 - memo = memory
 - meta = metadata
-- meth = method
 - mod = module
 - modi = modify
 - nav = navigation | navigate
