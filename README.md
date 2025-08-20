@@ -28,7 +28,7 @@ Abbreviations should:
 - char = character
     - "ch" as in church.
 - comp = component
-- conf = configuration
+- config = configuration
 - const = constant
 - cont = content
 - curr = current
